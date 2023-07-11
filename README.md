@@ -64,6 +64,7 @@ CRM, 3rd Party and Task Management Integration.
 ## Libraries
 - Next.js
 - React
+- Unit Tests http://bittersweetryan.github.io/jasmine-presentation/#slide-0
 - ApolloGraphQL
 - TailwindCSS
 - Casual ( for fake data)
