@@ -4,6 +4,7 @@ Integration B2C and B2B SaaS Platform.
 
 ## What is Rapid Prototyping Injector?
 - It is an integrated business, sales and marketing tool for rapid templating: POCs and Prototyping. The Frontend is a SaaS interface configured to allow clients to send their products and services via our Cloud API and run a trading, operational platform to serve their customers.
+- RPI is a Microservices Architecture. MSA is a software architectural style that structures the application as a collection of small, loosely coupled, and independently deployable services. RPI is a service that focuses on a specific business capability and operates as a separate process or container - as an Uploader for rapid prototyping.
 - Provides a dedicated Container Wrapper for customer applications and services.
 - As a PWA, Rapid Prototyping Injector offers a range of benefits, including improved user engagement, broader reach across devices and platforms.
 - It automatically updates in the background, ensuring that users always have the latest version without needing to manually update or visit an app store.
