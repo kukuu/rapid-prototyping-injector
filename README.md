@@ -27,10 +27,10 @@ Microservices Architecture is commonly used in complex and scalable applications
 
 
 ## Competitors
-- 
 
 
-## Target 
+
+## Target Audience
 
 
 ## Features
