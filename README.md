@@ -47,3 +47,7 @@ Rapid Prototyping Injector is about building markets for this innovation to grow
 - Stripe ( payment integration)
 - Apache KAFKA
 - Directus
+
+##  Extended reading
+- Technopedia: https://github.com/kukuu/Technopedia
+
