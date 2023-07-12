@@ -35,10 +35,9 @@ Microservices Architecture is commonly used in complex and scalable applications
 
 ## Features
 
-#### Global
-- SEARCH Engine (location through Google etc)
-- Params: zikzak + [stage/public name]
-- Form Uploader (Admin Interface & Authorisation Levels)
+- Uploader 
+- Login
+- Personalisation
 
 
 ## Libraries
@@ -60,5 +59,6 @@ Microservices Architecture is commonly used in complex and scalable applications
 - Directus
 
 ##  Extended reading
+- https://github.com/kukuu/integration/blob/main/common-integration-tasks.md
 - Technopedia: https://github.com/kukuu/Technopedia
 
