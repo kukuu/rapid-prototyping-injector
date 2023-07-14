@@ -1,6 +1,6 @@
 # Rapid Prototyping Injector - RPI
 
-Integration B2C and B2B SaaS Platforms for rapid prototyping and building PoCs. A useful tool for Technology Consultants working with multiple Clients to derive requirements, goals, vision and growth.
+Integration B2C and B2B SaaS Platforms for rapid prototyping and building PoCs. A useful tool for Technology Consultants working with multiple Clients to derive requirements, goals, vision and growth for the business.
 
 ## Mission
 We are in to disrupt UCD, and UDD markets with credible options/alternatives, value and show how different user-generated outputs can be integrated synchronously into a one-stop-eCommerce storefront, stay focused and harness increased productivity and revenue. 
