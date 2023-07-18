@@ -8,7 +8,7 @@ We are in to disrupt UCD, and UDD markets with credible options/alternatives, va
 Rapid Prototyping Injector is about building markets for this innovation to grow into. A great product like Rapid Prototyping Injector will not succeed without a strong customer base, adequate regulation, access to data, skills and capital. The reason we are building to serve B2C and B2B business platforms. 
 
 ## What is Rapid Prototyping Injector?
-- It is an integrated business, sales and marketing tool for rapid templating: POCs and Prototyping. The Frontend is a SaaS interface configured to allow clients to send their products and services via our Cloud API and run a trading, operational platform to serve their customers.
+- It is an integrated business, sales and marketing tool for rapid templating: POCs and Prototyping. The Frontend is a SaaS interface configured to allow clients to send their products and services via our Cloud API and run a trading, operational platform to serve  customers.
 - RPI is a Microservices Architecture. MSA is a software architectural style that structures the application as a collection of small, loosely coupled, and independently deployable services. RPI is a service that focuses on a specific business capability and operates as a separate process or container - as an Uploader for rapid prototyping.
 - As a microservice RPI follows the principle of Bounded Context from Domain-Driven Design (DDD). This allows software development teams to align their services with specific business requirements and maintain better separation of concerns.
 - Provides a dedicated Container Wrapper for customer applications and services.
