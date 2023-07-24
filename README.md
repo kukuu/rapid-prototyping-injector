@@ -1,4 +1,4 @@
-# Rapid Prototyping Injector - RPI
+# Rapid Prototyping Injector: RPI
 
 Integration B2C and B2B SaaS Platforms for rapid prototyping and building PoCs. A useful tool for Technology Consultants working with multiple Clients to derive requirements, goals, vision and growth for the business.
 
